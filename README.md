@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded Website</title>
+    <title>Anay+Nooh+Niam</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,7 +37,7 @@
 <body>
 
 <header>
-    <h1>Embedded Website</h1>
+    <h1>Anay+Nooh+Niam</h1>
 </header>
 
 <iframe src="https://canvas-login-instructure.github.io/macvg/" loading="lazy"></iframe>
